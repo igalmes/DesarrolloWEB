@@ -1,0 +1,17 @@
+* {background-color: grey;}
+
+.Header {
+    text-align: center;
+    color: red;
+}
+
+.Parrafo { 
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    color:  white;
+}
+
+.Noticia { 
+    text-align: justify;
+    font-style: italic;
+}
